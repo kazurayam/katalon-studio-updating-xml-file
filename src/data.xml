@@ -1,0 +1,14 @@
+<root>
+  <TestRemitList>
+    <TestRemittancy>
+      <TestNumber>AFWCP100100885</TestNumber>
+      <TestModule>1</TestModule>
+      <TestEffectiveDate>2022-12-15</TestEffectiveDate>
+    </TestRemittancy>
+    <TestRemittancy>
+      <TestNumber>AFWCP100100886</TestNumber>
+      <TestModule>1</TestModule>
+      <TestEffectiveDate>2022-12-15</TestEffectiveDate>
+    </TestRemittancy>
+  </TestRemitList>
+</root>
